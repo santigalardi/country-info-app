@@ -48,7 +48,7 @@ cd client
 Install the dependencies:
 
 ```bash
-cd npm install
+npm install
 ```
 
 Start the client application:
