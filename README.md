@@ -11,8 +11,8 @@ This project is divided into two main parts: `api` and `client`. Follow the inst
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/santigalardi/country-info-app.git
+cd country-info-app
 ```
 
 ### 2. Set Up the API
